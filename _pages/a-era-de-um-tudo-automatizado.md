@@ -14,7 +14,7 @@ post_date: 2019-04-30 04:10:20
 <!-- /wp:image -->
 
 <!-- wp:paragraph {"align":"left","textColor":"very-dark-gray","className":"p { text-align: center; }"} -->
-<p style="text-align:left" class="has-text-color has-very-dark-gray-color p { text-align: center; }">Vivemos numa era em
+<p style="text-align:center" class="has-text-color has-very-dark-gray-color p { text-align: center; }">Vivemos numa era em
 que tudo parece convergir para um modelo de automação: máquinas
 conseguirão substituir humanos em grande parte das habilidades
 possíveis para uma profissão. Afinal, qual seria o limiar disso?
