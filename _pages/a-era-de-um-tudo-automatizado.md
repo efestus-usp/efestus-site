@@ -88,6 +88,10 @@ estariam cada vez mais perto de conseguirem a inteligência emocional
 para substituir psicólogos e colocar os humanos em um divã.</p>
 <!-- /wp:paragraph -->
 
+<!-- wp:separator -->
+<hr class="wp-block-separator"/>
+<!-- /wp:separator -->
+
 <!-- wp:media-text {"mediaId":548,"mediaType":"image"} -->
 <div class="wp-block-media-text alignwide"><figure class="wp-block-media-text__media"><img src="https://efestus.icmc.usp.br/wp-content/uploads/2019/04/what-will-automation-mean_crop_1536x1536-915648420-1024x1024.jpg" alt="" class="wp-image-548"/></figure><div class="wp-block-media-text__content"><!-- wp:paragraph {"textColor":"very-dark-gray"} -->
 <p class="has-text-color has-very-dark-gray-color">Alguns analistas
@@ -99,6 +103,10 @@ dificilmente possam ser substituídas por máquinas.</p>
 <!-- /wp:paragraph --></div></div>
 <!-- /wp:media-text -->
 
+<!-- wp:separator -->
+<hr class="wp-block-separator"/>
+<!-- /wp:separator -->
+
 <!-- wp:paragraph {"textColor":"very-dark-gray"} -->
 <p class="has-text-color has-very-dark-gray-color">Em suma, é claro
 que há um recrudescimento da automatização, porém em situações
@@ -108,8 +116,7 @@ máquinas não terão que se preocupar (ainda).</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph {"textColor":"very-dark-gray"} -->
-<p class="has-text-color has-very-dark-gray-color">Fontes:
-https://futurism.com/images/age-automation-welcome-next-great-revolution</p>
+<p class="has-text-color has-very-dark-gray-color"><strong>Fontes:</strong> https://futurism.com/images/age-automation-welcome-next-great-revolution</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:core-embed/wordpress {"url":"https://www.digitaltonto.com/2017/how-to-compete-and-win-in-an-automated-age/","type":"wp-embed","providerNameSlug":"digital-tonto","className":""} -->
