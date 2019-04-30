@@ -13,8 +13,8 @@ post_date: 2019-04-30 04:10:20
 <div class="wp-block-image"><figure class="aligncenter"><img src="https://efestus.icmc.usp.br/wp-content/uploads/2019/04/nov16-23-496788830-850x478.jpg" alt="" class="wp-image-546"/><figcaption>"Um relatório recente pela Universidade de Oxford e Citigroup mostra que até 85% dos empregos estão em risco de serem automatizados, particularmente no mundo desenvolvido." </figcaption></figure></div>
 <!-- /wp:image -->
 
-<!-- wp:paragraph {"align":"left","textColor":"very-dark-gray","className":"p { text-align: center; }"} -->
-<p style="text-align:center" class="has-text-color has-very-dark-gray-color p { text-align: center; }">Vivemos numa era em
+<!-- wp:paragraph {"textColor":"very-dark-gray","className":"center {text-align:center;}"} -->
+<p class="has-text-color has-very-dark-gray-color center {text-align:center;}">Vivemos numa era em
 que tudo parece convergir para um modelo de automação: máquinas
 conseguirão substituir humanos em grande parte das habilidades
 possíveis para uma profissão. Afinal, qual seria o limiar disso?
