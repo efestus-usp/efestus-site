@@ -116,30 +116,24 @@ máquinas não terão que se preocupar (ainda).</p>
 <!-- /wp:paragraph -->
 
 <!-- wp:paragraph {"textColor":"very-dark-gray"} -->
-<p class="has-text-color has-very-dark-gray-color"><strong>Fontes:</strong> https://futurism.com/images/age-automation-welcome-next-great-revolution</p>
+<p class="has-text-color has-very-dark-gray-color"><strong>Fontes:</strong> https://futurism.com/images/age-automation-welcome-next-great-revolution </p>
 <!-- /wp:paragraph -->
 
-<!-- wp:core-embed/wordpress {"url":"https://www.digitaltonto.com/2017/how-to-compete-and-win-in-an-automated-age/","type":"wp-embed","providerNameSlug":"digital-tonto","className":""} -->
-<figure class="wp-block-embed-wordpress wp-block-embed is-type-wp-embed is-provider-digital-tonto"><div class="wp-block-embed__wrapper">
-https://www.digitaltonto.com/2017/how-to-compete-and-win-in-an-automated-age/
-</div></figure>
-<!-- /wp:core-embed/wordpress -->
+<!-- wp:paragraph {"textColor":"very-dark-gray"} -->
+<p class="has-text-color has-very-dark-gray-color">https://www.digitaltonto.com/2017/how-to-compete-and-win-in-an-automated-age/ </p>
+<!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
-<p><a href="https://www.bloomberg.com/news/articles/2018-10-19/russia-linked-bots-used-u-s-startups-to-meddle-in-election">https://www.bloomberg.com/news/articles/2018-10-19/russia-linked-bots-used-u-s-startups-to-meddle-in-election</a></p>
+<p><a href="https://www.bloomberg.com/news/articles/2018-10-19/russia-linked-bots-used-u-s-startups-to-meddle-in-election">https://www.bloomberg.com/news/articles/2018-10-19/russia-linked-bots-used-u-s-startups-to-meddle-in-election</a> </p>
 <!-- /wp:paragraph -->
 
-<!-- wp:core-embed/wordpress {"url":"http://techgenix.com/uber-machine-learning/","type":"wp-embed","providerNameSlug":"techgenix","className":""} -->
-<figure class="wp-block-embed-wordpress wp-block-embed is-type-wp-embed is-provider-techgenix"><div class="wp-block-embed__wrapper">
-http://techgenix.com/uber-machine-learning/
-</div></figure>
-<!-- /wp:core-embed/wordpress -->
+<!-- wp:paragraph {"textColor":"very-dark-gray"} -->
+<p class="has-text-color has-very-dark-gray-color">http://techgenix.com/uber-machine-learning/  </p>
+<!-- /wp:paragraph -->
 
-<!-- wp:core-embed/facebook {"url":"https://www.facebook.com/shitpostbot5k/","className":""} -->
-<figure class="wp-block-embed-facebook wp-block-embed"><div class="wp-block-embed__wrapper">
-https://www.facebook.com/shitpostbot5k/
-</div></figure>
-<!-- /wp:core-embed/facebook -->
+<!-- wp:paragraph {"textColor":"very-dark-gray"} -->
+<p class="has-text-color has-very-dark-gray-color">https://www.facebook.com/shitpostbot5k/ </p>
+<!-- /wp:paragraph -->
 
 <!-- wp:paragraph -->
 <p><a href="https://en.wikipedia.org/wiki/Sentiment_analysis">https://en.wikipedia.org/wiki/Sentiment_analysis</a></p>
