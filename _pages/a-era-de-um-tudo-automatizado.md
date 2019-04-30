@@ -5,7 +5,7 @@ author: efestuser
 post_excerpt: ""
 layout: page
 permalink: >
-  https://efestus.icmc.usp.br/a-era-de-um-tudo-automatizado/
+  https://efestus.icmc.usp.br/artigos/a-era-de-um-tudo-automatizado/
 published: true
 post_date: 2019-04-30 04:10:20
 ---
