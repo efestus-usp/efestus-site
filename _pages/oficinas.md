@@ -1,11 +1,10 @@
 ---
 ID: 583
-post_title: 'Elementor #583'
+post_title: Oficinas
 author: efestuser
 post_excerpt: ""
 layout: page
-permalink: >
-  https://efestus.icmc.usp.br/elementor-583/
+permalink: https://efestus.icmc.usp.br/oficinas/
 published: true
 post_date: 2019-05-10 08:49:14
 ---
