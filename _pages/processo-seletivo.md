@@ -9,9 +9,9 @@ permalink: >
 published: true
 post_date: 2019-03-24 01:42:08
 ---
-<img width="300" height="300" src="http://efestus.icmc.usp.br/wp-content/uploads/2019/03/efestus.gif" alt="" />											
-			<h2>Processo seletivo</h2>		
-			<p>Atualmente nosso processo seletivo está fechado, mas entre em contato com a gente para maiores interesses!</p>		
-			<a href="/contato" role="button">
-						Contato
+<img width="300" height="300" src="https://efestus.icmc.usp.br/wp-content/uploads/2019/03/efestus.gif" alt="" />											
+			<h2>Processo de Ingresso</h2>		
+			<p>Nosso processo de ingresso está aberto! Se inscreva até dia 13/03 e vem transformar a tecnologia como instrumento de impacto social conosco!</p>		
+			<a href="https://forms.gle/kzDszNNzjPotMP6N7" role="button">
+						Inscreva-se
 					</a>
