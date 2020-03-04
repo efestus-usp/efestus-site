@@ -1,6 +1,6 @@
 ---
 ID: 401
-post_title: Processo Seletivo
+post_title: Processo de Ingresso
 author: efestuser
 post_excerpt: ""
 layout: page
